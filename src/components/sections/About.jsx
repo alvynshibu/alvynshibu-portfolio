@@ -81,7 +81,7 @@ export const About = () => {
                             </div>
 
                             <div>
-                                <h4 className="font-semibold">Treasurer of Leicester Malayali Society (2020-2025)</h4>
+                                <h4 className="font-semibold">Treasurer of Leicester Malayali Society (2023-2024)</h4>
                                 <ul className="list-disc list-inside ml-4">
                                     <li>Managed society budget and financial records.</li>
                                     <li>Coordinated fundraising events and handled sponsorships.</li>

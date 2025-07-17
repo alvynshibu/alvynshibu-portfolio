@@ -5,7 +5,7 @@ export const Home = () => {
     return (
         <section 
             id="home" 
-            className="min-h-screen flex items-center justify-center px-4 pt-16 md:pt-0"
+            className="min-h-screen flex items-center justify-center px-4 pt-18 md:pt-0"
         >
             <RevealOnScroll>
                 <div className="flex flex-col md:flex-row items-center justify-center max-w-6xl w-full gap-12">
